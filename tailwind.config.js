@@ -2,7 +2,13 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    fontFamily: {
+      sans: ['Roboto', 'sans-serif'],
+    },
     extend: {
+      fontSize: {
+        'fl': '1.6rem'
+      },
       colors: {
         apple: {
           DEFAULT: '#42B72A',
