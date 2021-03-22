@@ -11,11 +11,16 @@
  ## Techs:
 
  * HTML
- * Tailwind CSS
+ * [Tailwind CSS](https://tailwindcss.com/)
 
  ## Author:
 
  **Renzo Sevilha**
  
  Find me:
+
 [Linkedin](https://www.linkedin.com/in/renzo-sevilha/)
+
+### Referências:
+
+[Facebook](https://www.facebook.com/)
