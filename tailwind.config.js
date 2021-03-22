@@ -6,6 +6,9 @@ module.exports = {
       sans: ['Roboto', 'sans-serif'],
     },
     extend: {
+      spacing: {
+        98: '26rem',
+      },
       fontSize: {
         'fl': '1.6rem'
       },
